@@ -1,5 +1,4 @@
 # A program showcasing basic Python functionality.
-# Version: 1.0
 # Author: Dan Mello
 # Date: 2020-06-02
 
